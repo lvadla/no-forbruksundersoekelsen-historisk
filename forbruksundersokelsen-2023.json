@@ -1,0 +1,43 @@
+<html lang="nb">
+    <head>
+        <script async="true" src="https://www.googletagmanager.com/gtag/js?id=UA-26520516-3"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', "UA-26520516-3");
+        </script>
+
+        <meta http-equiv="Content-Type" content="text/html;" charset="UTF-8"/>
+        <title>Siden feilet / Page error</title>
+        <meta name="viewport" content="width=device-width"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans%7COpen+Sans:700%7CRoboto:700%7CRoboto+Condensed:700"/>
+        <link rel="stylesheet" href="/_/asset/mimir:0000018a8d6cea80/styles/bundle.css"/>
+        
+    </head>
+    <body class="xp-page">
+        <div class="container">
+            <div class="row d-flex justify-content-center error-page">
+    <div class="logo col-12 mt-4">
+        <a href="/">
+            <img src="/_/asset/mimir:0000018a8d6cea80/SSB_logo_black.svg" alt="SSB logo" />
+        </a>
+    </div>
+    <div class="col-12 title-wrapper d-flex justify-content-center">
+        <h1 class="col-12 col-md-8 pl-md-5 ml-md-3">Siden feilet</h1>
+    </div>
+    <div class="col-12 col-md-4 ml-md-5 mt-md-5 mt-5 text-wrapper">
+        <p>Siden feilet å laste med feilkode 405, vennligst prøv igjen. Om problemet vedvarer, ta kontakt med SSB.</p>
+        <ul>
+            <li>
+                <a href="javascript:history.back()">Gå tilbake til forrige side</a>
+                <span>eller</span>
+                <a href="/">til forsiden vår.</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+        </div>
+    </body>
+</html>
